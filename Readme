@@ -1,7 +1,7 @@
 # Y++ Programming Language
 
 Y++ is a simple toy programming language built from scratch in C++.  
-It includes a **lexer, parser, AST, and execution engine**, making it a great foundation for understanding compiler design.
+It includes a lexer, parser, AST, and execution engine, making it a great foundation for understanding compiler design.
 
 ## Features
 ✅ Custom syntax similar to C++  
